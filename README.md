@@ -5,6 +5,8 @@
 [![AI UI/UX Motion Engine release](https://img.shields.io/github/v/release/OpaceDigitalAgency/ai-ui-ux-motion-engine?label=AI%20UI%2FUX%20Motion%20Engine)](https://github.com/OpaceDigitalAgency/ai-ui-ux-motion-engine/releases/latest)
 [![Opace Agent Skills release](https://img.shields.io/github/v/release/OpaceDigitalAgency/skills?label=Opace%20Agent%20Skills)](https://github.com/OpaceDigitalAgency/skills/releases/latest)
 
+![Opace Digital Agency open-source portfolio: AI Agent Skills, WordPress, headless CMS, web platforms, 3D and data visualisation](assets/social-preview.png)
+
 This repository is the canonical index of Opace open-source projects. Start with the Agent Skills below, or browse the portfolio by area.
 
 ## AI Agent Skills
