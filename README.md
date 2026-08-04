@@ -4,6 +4,7 @@
 
 [![AI UI/UX Motion Engine release](https://img.shields.io/github/v/release/OpaceDigitalAgency/ai-ui-ux-motion-engine?label=AI%20UI%2FUX%20Motion%20Engine)](https://github.com/OpaceDigitalAgency/ai-ui-ux-motion-engine/releases/latest)
 [![Opace Agent Skills release](https://img.shields.io/github/v/release/OpaceDigitalAgency/skills?label=Opace%20Agent%20Skills)](https://github.com/OpaceDigitalAgency/skills/releases/latest)
+[![Astro Visual Editor CI](https://github.com/OpaceDigitalAgency/astro-visual-editor/actions/workflows/ci.yml/badge.svg)](https://github.com/OpaceDigitalAgency/astro-visual-editor/actions/workflows/ci.yml)
 
 ![Opace Digital Agency open-source portfolio: AI Agent Skills, WordPress, headless CMS, web platforms, 3D and data visualisation](assets/social-preview.png)
 
@@ -11,46 +12,48 @@ This repository is the canonical index of Opace open-source projects. Start with
 
 ## AI Agent Skills
 
-| Project | What it provides |
-| --- | --- |
+| Project                                                                                    | What it provides                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **[AI UI/UX Motion Engine](https://github.com/OpaceDigitalAgency/ai-ui-ux-motion-engine)** | Production Agent Skill and plugin for AI website design, UI/UX, frontend development, motion graphics, cinematic scroll experiences, Three.js and accessible interaction across Codex, Claude Code, Cursor, Copilot, Antigravity, Gemini and Windsurf. |
-| **[Opace Agent Skills](https://github.com/OpaceDigitalAgency/skills)** | The wider open collection and catalogue of reusable AI Agent Skills, installers, platform guidance and releases. |
+| **[Opace Agent Skills](https://github.com/OpaceDigitalAgency/skills)**                     | The wider open collection and catalogue of reusable AI Agent Skills, installers, platform guidance and releases.                                                                                                                                       |
 
 ## AI and WordPress
 
-| Project | What it provides |
-| --- | --- |
+| Project                                                                                   | What it provides                                                                          |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | **[AI Scribe](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator)** | WordPress content-creation plugin using the OpenAI API for long-form articles and images. |
-| **[AI Core](https://github.com/OpaceDigitalAgency/ai-core)** | Central WordPress integration hub for OpenAI and other AI-provider APIs. |
-| **[Article Smasher](https://github.com/OpaceDigitalAgency/article-smasher)** | AI-powered content generation, repurposing and content-marketing utility. |
+| **[AI Core](https://github.com/OpaceDigitalAgency/ai-core)**                              | Central WordPress integration hub for OpenAI and other AI-provider APIs.                  |
+| **[Article Smasher](https://github.com/OpaceDigitalAgency/article-smasher)**              | AI-powered content generation, repurposing and content-marketing utility.                 |
 
 ## Web platforms and productivity tools
 
-| Project | What it provides |
-| --- | --- |
-| **[Headless CMS](https://github.com/OpaceDigitalAgency/headless-cms)** | Productised Payload CMS platform with reusable content blocks, PostgreSQL, Next.js and Astro frontends. |
-| **[Opace Annotate](https://github.com/OpaceDigitalAgency/website-critique-tool)** | Visual website-review and design-feedback application for HTML mockups and live sites. |
-| **[SmashingApps](https://github.com/OpaceDigitalAgency/smashingapps-unified)** | React application combining AI productivity tools including Task Smasher and Article Smasher. |
-| **[Task Smasher](https://github.com/OpaceDigitalAgency/task-smasher)** | Secure, rate-limited OpenAI API proxy using Netlify serverless functions. |
-| **[Driving Lesson Hunter](https://github.com/OpaceDigitalAgency/driving-lesson-hunter)** | UK driving-test-centre finder using geocoding and official public data. |
-| **[Evolution of Religion Timeline](https://github.com/OpaceDigitalAgency/timelinev2)** | Interactive data visualisation covering the development and spread of world religions. |
-| **[Next.js Starter](https://github.com/OpaceDigitalAgency/becks)** | Lightweight starter for modern JavaScript web applications. |
+| Project                                                                                  | What it provides                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Astro Visual Editor](https://github.com/OpaceDigitalAgency/astro-visual-editor)**     | Development-only Astro integration for front-end text and SEO editing, drag-and-drop sections, reviewed change queues and validated source writes. [View the product page](https://opace.agency/tools/astro/visual-editor/). |
+| **[Headless CMS](https://github.com/OpaceDigitalAgency/headless-cms)**                   | Productised Payload CMS platform with reusable content blocks, PostgreSQL, Next.js and Astro frontends.                                                                                                                      |
+| **[Opace Annotate](https://github.com/OpaceDigitalAgency/website-critique-tool)**        | Visual website-review and design-feedback application for HTML mockups and live sites.                                                                                                                                       |
+| **[SmashingApps](https://github.com/OpaceDigitalAgency/smashingapps-unified)**           | React application combining AI productivity tools including Task Smasher and Article Smasher.                                                                                                                                |
+| **[Task Smasher](https://github.com/OpaceDigitalAgency/task-smasher)**                   | Secure, rate-limited OpenAI API proxy using Netlify serverless functions.                                                                                                                                                    |
+| **[Driving Lesson Hunter](https://github.com/OpaceDigitalAgency/driving-lesson-hunter)** | UK driving-test-centre finder using geocoding and official public data.                                                                                                                                                      |
+| **[Evolution of Religion Timeline](https://github.com/OpaceDigitalAgency/timelinev2)**   | Interactive data visualisation covering the development and spread of world religions.                                                                                                                                       |
+| **[Next.js Starter](https://github.com/OpaceDigitalAgency/becks)**                       | Lightweight starter for modern JavaScript web applications.                                                                                                                                                                  |
 
 ## 3D and interactive web projects
 
-| Project | What it provides |
-| --- | --- |
-| **[3D Racing](https://github.com/OpaceDigitalAgency/3D-Racing)** | Browser-based 3D racing prototype using Babylon.js, TypeScript, WebGL and WebGPU. |
-| **[Neon Dusk Circuit](https://github.com/OpaceDigitalAgency/new-racer)** | Browser-playable Babylon.js racing experience with advanced rendering. |
-| **[Roomba](https://github.com/OpaceDigitalAgency/Roomba)** | Interactive 3D visualisation built with React Three Fiber and Three.js. |
+| Project                                                                  | What it provides                                                                  |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **[3D Racing](https://github.com/OpaceDigitalAgency/3D-Racing)**         | Browser-based 3D racing prototype using Babylon.js, TypeScript, WebGL and WebGPU. |
+| **[Neon Dusk Circuit](https://github.com/OpaceDigitalAgency/new-racer)** | Browser-playable Babylon.js racing experience with advanced rendering.            |
+| **[Roomba](https://github.com/OpaceDigitalAgency/Roomba)**               | Interactive 3D visualisation built with React Three Fiber and Three.js.           |
 
 ## Technologies and areas
 
-AI Agent Skills · Codex skills · Claude Code skills · GitHub Copilot · OpenAI · WordPress plugins · headless CMS · Payload CMS · frontend development · content creation · web design · 3D visualisation · data visualisation · accessibility-aware motion
+AI Agent Skills · Codex skills · Claude Code skills · GitHub Copilot · OpenAI · Astro integration · visual editing · frontend editing · WordPress plugins · headless CMS · Payload CMS · frontend development · content creation · web design · 3D visualisation · data visualisation · accessibility-aware motion
 
 ## Agency services
 
 - [Web design and development](https://opace.agency/services/web-design)
+- [Astro development](https://opace.agency/services/web-design/astro-development/)
 - [Next.js and React development](https://opace.agency/services/web-design/next-js-react-development)
 - [WordPress development](https://opace.agency/services/web-design/wordpress-development)
 - [Pay-monthly websites](https://monthlywebdesign.com)
