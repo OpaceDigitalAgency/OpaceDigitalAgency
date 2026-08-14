@@ -4,6 +4,7 @@
 
 [![AI UI/UX Motion Engine release](https://img.shields.io/github/v/release/OpaceDigitalAgency/ai-ui-ux-motion-engine?label=AI%20UI%2FUX%20Motion%20Engine)](https://github.com/OpaceDigitalAgency/ai-ui-ux-motion-engine/releases/latest)
 [![Opace Agent Skills release](https://img.shields.io/github/v/release/OpaceDigitalAgency/skills?label=Opace%20Agent%20Skills)](https://github.com/OpaceDigitalAgency/skills/releases/latest)
+[![AI-Core release](https://img.shields.io/github/v/release/OpaceDigitalAgency/ai-core-integration-hub-prompt-engine-wordpress-plugin?label=AI-Core)](https://github.com/OpaceDigitalAgency/ai-core-integration-hub-prompt-engine-wordpress-plugin/releases/latest)
 [![Astro Visual Editor CI](https://github.com/OpaceDigitalAgency/astro-visual-editor/actions/workflows/ci.yml/badge.svg)](https://github.com/OpaceDigitalAgency/astro-visual-editor/actions/workflows/ci.yml)
 
 ![Opace Digital Agency open-source portfolio: AI Agent Skills, WordPress, headless CMS, web platforms, 3D and data visualisation](assets/social-preview.png)
@@ -21,8 +22,8 @@ This repository is the canonical index of Opace open-source projects. Start with
 
 | Project                                                                                   | What it provides                                                                          |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| **[AI Scribe](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator)** | WordPress content-creation plugin using the OpenAI API for long-form articles and images. |
-| **[AI Core](https://github.com/OpaceDigitalAgency/ai-core)**                              | Central WordPress integration hub for OpenAI and other AI-provider APIs.                  |
+| **[AI Core](https://github.com/OpaceDigitalAgency/ai-core-integration-hub-prompt-engine-wordpress-plugin)** | Shared WordPress AI infrastructure for provider credentials, live models, prompts, normalised requests and usage records. Version 1.0 is the first public release. |
+| **[AI Scribe](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator)** | Guided WordPress content and SEO workflow. Its version 3 architecture uses AI-Core for the shared provider layer.                                            |
 | **[Article Smasher](https://github.com/OpaceDigitalAgency/article-smasher)**              | AI-powered content generation, repurposing and content-marketing utility.                 |
 
 ## Web platforms and productivity tools
@@ -52,10 +53,11 @@ AI Agent Skills · Codex skills · Claude Code skills · GitHub Copilot · OpenA
 
 ## Agency services
 
-- [Web design and development](https://opace.agency/services/web-design)
+- [Web design and development](https://opace.agency/services/web-design/)
 - [Astro development](https://opace.agency/services/web-design/astro-development/)
 - [Next.js and React development](https://opace.agency/services/web-design/next-js-react-development)
-- [WordPress development](https://opace.agency/services/web-design/wordpress-development)
+- [WordPress development](https://opace.agency/services/web-design/wordpress-development/)
+- [AI SEO](https://opace.agency/services/ai-seo/)
 - [Pay-monthly websites](https://monthlywebdesign.com)
 
 ## About Opace
