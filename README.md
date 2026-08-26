@@ -22,6 +22,7 @@ This repository is the canonical index of Opace open-source projects. Start with
 
 | Project                                                                                   | What it provides                                                                          |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **[Add as Preferred Source Button](https://github.com/OpaceDigitalAgency/add-as-preferred-source-button-for-google)** | Google Preferred Sources button, popup and analytics for SEO and AI Overviews: a WordPress plugin plus a web component with React, Vue, Svelte and Astro wrappers for Google's official SDK. |
 | **[AI Core](https://github.com/OpaceDigitalAgency/ai-core-integration-hub-prompt-engine-wordpress-plugin)** | Shared WordPress AI infrastructure for provider credentials, live models, prompts, normalised requests and usage records. Version 1.0 is the first public release. |
 | **[AI Scribe](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator)** | Guided WordPress content and SEO workflow. Its version 3 architecture uses AI-Core for the shared provider layer.                                            |
 | **[Article Smasher](https://github.com/OpaceDigitalAgency/article-smasher)**              | AI-powered content generation, repurposing and content-marketing utility.                 |
