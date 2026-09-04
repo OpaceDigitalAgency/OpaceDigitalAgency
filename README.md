@@ -43,7 +43,8 @@ This repository is the canonical index of Opace open-source projects. Start with
 
 | Project | What it provides |
 | --- | --- |
-| **[Opace Essential SEO Toolkit: SEO Analysis Tool for WordPress & Google Chrome - Chrome extension](https://chromewebstore.google.com/detail/essential-seo-toolkit-seo/icagkiolfkmndbggheneeamfbnobcdma)** | Chrome extension for reviewing on-page SEO, speed, audit, backlink, technical and social-analysis signals while viewing a WordPress site or any public page. |
+| **[Essential SEO Toolkit for Chrome](https://github.com/OpaceDigitalAgency/essential-seo-toolkit-chrome-extension)** | Privacy-first Chrome SEO tool with a local on-page SEO audit, accessibility and Web Vitals checks, plus reusable page-aware SEO bookmarks. [Install it from the Chrome Web Store](https://chromewebstore.google.com/detail/essential-seo-toolkit-seo/icagkiolfkmndbggheneeamfbnobcdma). |
+| **[Essential SEO Toolkit for WordPress](https://github.com/OpaceDigitalAgency/essential-seo-toolkit-wordpress-plugin)** | Private WordPress SEO audit with 14 on-page checks, crawl signals, accessibility, Web Vitals and page-aware saved SEO tools across the editor and admin. [View it on WordPress.org](https://wordpress.org/plugins/opace-essential-seo-toolkit/). |
 | **[UK Website Cost Calculator: Estimate Setup, Build & Ongoing Ownership Costs - web app](https://opace.agency/tools/app/website-cost-calculator/)** | Free UK website cost calculator covering setup, build and ongoing ownership estimates across one, three and five years. |
 | **[Opace Annotate: Visual Feedback & Website Critique Tool for Design Mockups - web app](https://github.com/OpaceDigitalAgency/website-critique-tool)** | Visual website-review and design-feedback application for HTML mockups and live sites. |
 
